@@ -45,4 +45,5 @@ GO TO .XML
 ## 🚀 About Me
 I'm a full stack developer..
 
-![esport_24_logo](https://github.com/user-attachments/assets/0478002c-4abf-4a96-a718-7c1dacf93a83)
+![esport_512_logo](https://github.com/user-attachments/assets/ae88888a-9a78-4046-bcf9-7bcce54d468d)
+
