@@ -11,12 +11,10 @@ GO TO build.gradle
 
    ```bash
 
-  dependencies {
 
 ///Circle Image
   implementation ("de.hdodenhof:circleimageview:3.1.0")
-
-  }
+  
 
 
 ```
